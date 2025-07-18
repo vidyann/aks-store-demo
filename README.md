@@ -142,6 +142,30 @@ This repo also includes [DevContainer configuration](./.devcontainer/devcontaine
 
 See the [Azure Developer CLI](./docs/azd.md) documentation for instructions on how to quickly deploy the app to Azure.
 
+## Contributing
+
+We welcome contributions and suggestions! This project follows the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
+
+To contribute to this project:
+
+1. **Fork the repository** and create your feature branch from `main`
+2. **Make your changes** ensuring they follow the project's coding standards  
+3. **Test your changes** locally using the provided Docker Compose setup
+4. **Submit a pull request** with a clear description of your changes
+
+For detailed contribution guidelines, including how to submit issues and pull requests, please see our [Contributing Guide](./CONTRIBUTING.md).
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE.md) file for details.
+
+The MIT License is a permissive license that allows you to:
+- Use the software for any purpose
+- Modify and distribute the software
+- Include the software in proprietary applications
+
+For the full license text and terms, please refer to the [LICENSE.md](./LICENSE.md) file.
+
 ## Additional Resources
 
 - AKS Documentation. https://learn.microsoft.com/azure/aks
